@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71cc529d44f0bd848b0cc43b98c67950, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerStatsData
+  playerClass: {fileID: 11400000, guid: 971f3e752e0dbaa459ea7b8eaedcdea9, type: 2}
+  level: 4
+  exp: 200
+  expToNextLevel: 250
+  freeStatPoints: 3
+  baseHp: 15
+  baseAtk: 15
+  baseSpeed: 0.15
+  bonusHp: 0
+  bonusAtk: 0
+  bonusSpeed: 0
